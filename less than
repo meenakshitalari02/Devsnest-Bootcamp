@@ -1,0 +1,15 @@
+num=int(input())
+if num<100:
+    print("The number is less than 100")
+elif num>100:
+    print("The number is greater than 100")
+else:
+    print("The number is equal to 100")
+
+
+
+
+    Input:
+    55
+Output:
+    The number is less than 100
