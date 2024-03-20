@@ -1,0 +1,15 @@
+score=int(input())
+threshold=int(input())
+if score>threshold:
+    print("Student passed!")
+else:
+    print("Student failed!")
+
+
+
+
+    Input:
+    45
+    30
+Output:
+    Student passed!
