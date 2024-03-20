@@ -1,10 +1,10 @@
 num = int(input())
-print(num+3)
+print(num-3)
+
 
 
 
 Input:
     4
 Output:
-    7
-
+    1
