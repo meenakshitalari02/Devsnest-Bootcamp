@@ -1,0 +1,14 @@
+revString = input()
+revLen = len(revString)
+# for i in range(revLen-1, -1,  -1):
+#     print(revString[i], end ='')
+while (revLen > 0):
+     print(revString[revLen-1] , end ='')
+     revLen-=1
+
+
+
+     Input:
+    !dlroW ,olleH
+Output:
+    Hello, World!
