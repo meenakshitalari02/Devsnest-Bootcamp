@@ -1,0 +1,16 @@
+totalOrderAmount=int(input())
+premiumMember=input()
+if totalOrderAmount >= 50 or premiumMember=="True":
+    print("You are eligible for free shipping.")
+else:
+    print("You are not eligible for free shipping.")
+
+
+
+
+
+    Input:
+    300
+    False
+Output:
+    You are eligible for free shipping.
