@@ -1,0 +1,11 @@
+age=int(input())
+print(age*12)
+
+
+
+
+
+Input:
+    25
+Output:
+    300
