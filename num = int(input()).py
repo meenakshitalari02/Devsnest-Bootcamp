@@ -1,10 +1,9 @@
 num = int(input())
-print(num-3)
-
+print(num/3)
 
 
 
 Input:
-    4
+    6
 Output:
-    1
+    2.0
